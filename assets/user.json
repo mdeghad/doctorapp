@@ -1,0 +1,70 @@
+
+  [
+    {
+      "patientName": "Deired Ella",
+      "doctorName": "Dr.Scilaris",
+      "status": "NYWC-IE,Checked Out",
+      "time":"11.00AM",
+      "Date": "2021-02-18 00:00:00.000",
+      "Dictation": "Dictation Pending"
+
+    },
+
+    {
+      "patientName": "Jhon Garret",
+      "doctorName": "Dr.Scilaris",
+      "status": "NYWC-FUP,Approved",
+      "time":"05.30PM",
+      "Date": "2021-02-18 00:00:00.000",
+      "Dictation": "Dictation Pending"
+
+    },
+    {
+      "patientName": "Kevin PeterSon",
+      "doctorName": "Dr.Scilaris",
+      "status": "NYWC-PT,InProgress",
+      "time":"10.45AM",
+      "Date": "2021-02-19 00:00:00.000",
+      "Dictation": "Dictation Pending"
+    },
+    {
+      "patientName": "James Watt",
+      "doctorName": "Dr.Scilaris",
+      "status": "NYWC-IE,Approved",
+      "time":"2.15PM",
+      "Date": "2021-02-19 00:00:00.000",
+      "Dictation": "Dictation Pending"
+    },
+    {
+      "patientName": "Jonathan Hill",
+      "doctorName": "Dr.Scilaris",
+      "status": "Commercial-FUP,Approved",
+      "time":"11.20AM",
+      "Date": "2021-02-20 00:00:00.000",
+      "Dictation": "Dictation Pending"
+    },
+    {
+      "patientName": "Debra Hernades",
+      "doctorName": "Dr.Scilaris",
+      "status": "Commercial-FUP,CheckedOut",
+      "time":"10.30AM",
+      "Date": "2021-02-20 00:00:00.000",
+      "Dictation": "Dictation Pending"
+    },
+    {
+      "patientName": "James Watt",
+      "doctorName": "Dr.Scilaris",
+      "status": "NYWC-IE,Approved",
+      "time":"2.15PM",
+      "Date": "2021-02-19 00:00:00.000",
+      "Dictation": "Dictation Pending"
+    },
+    {
+      "patientName": "James Watt",
+      "doctorName": "Dr.Scilaris",
+      "status": "NYWC-IE,Approved",
+      "time":"2.15PM",
+      "Date": "2021-02-19 00:00:00.000",
+      "Dictation": "Dictation Pending"
+    }
+  ]
